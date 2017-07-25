@@ -1,0 +1,8 @@
+{
+    "id": "KeysGenerator",
+    "name": "Keys Generator",
+    "description": "Sounrchain Keys Generator",
+    "version": "1.0.0",
+    "author": "Soundchain",
+    "iconUrl": "./favicons/fav_2.png"
+}
